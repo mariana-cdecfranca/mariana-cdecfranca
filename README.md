@@ -9,9 +9,11 @@ Sobre minha formação:
 
 Interesses e foco:
 
-- DevOps
+- Cibersegurança
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonec2.svg" width="40" height="40"/>
 
 Contatos:
 
