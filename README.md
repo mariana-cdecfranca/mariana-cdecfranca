@@ -3,7 +3,7 @@
 Meu nome é Mariana França.
 
 Sobre minha formação:
-
+- :books: Tecnologia em Cibersegurança (em andamento);
 - :mortar_board: Bacharela em Física Médica pela UNESP (2018-2022);
 - :briefcase: Especialista em Física Médica do Radiodiagnóstico pela Unifesp (2023-2025).
 
